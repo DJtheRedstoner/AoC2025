@@ -14,5 +14,5 @@ repositories {
 }
 
 dependencies {
-
+    implementation(files("lib/com.microsoft.z3.jar"))
 }
